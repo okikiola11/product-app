@@ -1,0 +1,19 @@
+/* ./resources/css/app.css */
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+.ecs {
+    border: 1px solid red;
+}
+
+.error-text {
+    padding: 6px;
+    background-color: red;
+    border-radius: 10px;
+    width: 25%;
+}
+
+.hide {
+    display: none;
+}
